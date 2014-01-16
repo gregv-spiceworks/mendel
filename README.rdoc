@@ -1,0 +1,27 @@
+= mendel
+
+* {Homepage}[https://rubygems.org/gems/mendel]
+* {Documentation}[http://rubydoc.info/gems/mendel/frames]
+* {Email}[mailto:]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'mendel'
+
+== Requirements
+
+== Install
+
+  $ gem install mendel
+
+== Copyright
+
+Copyright (c) 2014 
+
+See LICENSE.txt for details.
